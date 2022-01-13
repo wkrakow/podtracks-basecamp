@@ -37,6 +37,10 @@ coverY: 22.10909090909091
 * Engage your community by supporting a local organization or raising money for a cause.
 * Participate in local events like VegFest, Seed Exchange, farmers markets and health fairs where you promote your Pod while meeting potential members. Be enthusiastic, welcoming, and believe in what you’re doing!
 
+
+
+Updated January 2022
+
 {% content-ref url="https://app.gitbook.com/o/kiRHRt3VEqmlFyz1Vf7y/s/ECp4WLsI50FICc6AzcC0/" %}
 [Style guide](https://app.gitbook.com/o/kiRHRt3VEqmlFyz1Vf7y/s/ECp4WLsI50FICc6AzcC0/)
 {% endcontent-ref %}
