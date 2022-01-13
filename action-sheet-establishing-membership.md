@@ -40,10 +40,10 @@ coverY: 22.10909090909091
 
 
 {% hint style="info" %}
-Updated January 2022
-{% endhint %}
+**Updated January 2022.**
 
-Updated January 2022 - We welcome your suggestions and ideas! Please send them to podsupport@plantpurecommunities.org
+We welcome your suggestions and ideas! Please send them to podsupport@plantpurecommunities.org
+{% endhint %}
 
 {% content-ref url="https://app.gitbook.com/o/kiRHRt3VEqmlFyz1Vf7y/s/ECp4WLsI50FICc6AzcC0/" %}
 [Style guide](https://app.gitbook.com/o/kiRHRt3VEqmlFyz1Vf7y/s/ECp4WLsI50FICc6AzcC0/)
