@@ -45,7 +45,3 @@ coverY: 22.10909090909091
 We welcome your suggestions and ideas! Please send them to podsupport@plantpurecommunities.org
 {% endhint %}
 
-{% content-ref url="https://app.gitbook.com/o/kiRHRt3VEqmlFyz1Vf7y/s/ECp4WLsI50FICc6AzcC0/" %}
-[Style guide](https://app.gitbook.com/o/kiRHRt3VEqmlFyz1Vf7y/s/ECp4WLsI50FICc6AzcC0/)
-{% endcontent-ref %}
-
