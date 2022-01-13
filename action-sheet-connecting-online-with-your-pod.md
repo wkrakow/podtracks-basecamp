@@ -101,3 +101,9 @@ There are many options for creating a website, some of which cost money. Conside
 [**WhatsApp**](https://www.whatsapp.com) **-** A great option for international Pods. This app could be good for a small group chat (10 people or less) and makes it easy to share articles and photos. With larger groups, there would likely be too many messages each day.
 
 [**GroupMe**](https://groupme.com/en-US/) **-** This app creates a private chatroom for anyone in your group, allowing you to keep in regular contact with members and encouraging more regular conversation among members. Keep in mind that it works best for people who have smartphones. Those without a smartphone might find it overwhelming if there are many messages sent each day.
+
+{% hint style="info" %}
+**Updated January 2022**
+
+We welcome your suggestions and ideas! Please send them to podsupport@plantpurecommunities.org
+{% endhint %}
