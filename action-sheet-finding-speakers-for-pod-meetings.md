@@ -27,3 +27,9 @@ description: >-
   * Ethical Choices Program - provides trained speakers for free to classrooms and delivers balanced thoughtful presentations. Pods have successfully had representatives from this group speak at evening Pod meetings held in the vicinity of the local school where there was a day presentation.
   * [Coalition for Healthy School Food](https://healthyschoolfood.org/wp/) - can provide resources for introducing plant-based foods and nutrition education to the whole school community.
 * There are a number of points to consider if you invite someone to speak who is not WFPB, or who has a particular cause they care strongly about and may want to promote. Make sure to understand what your speaker's agenda might be and ask them to share their presentation with you in advance. Send an email (so it's in writing) asking them to agree not to promote anything which is in conflict with the PPC Culinary Philosophy (aka not WFPB). If they'd like to speak about controversial topics, ask that they first discuss them with you so that you may decide whether or not they are appropriate topics for the meeting.
+
+{% hint style="info" %}
+**Updated January 2022**
+
+We welcome your suggestions and ideas! Please send them to podsupport@plantpurecommunities.org
+{% endhint %}

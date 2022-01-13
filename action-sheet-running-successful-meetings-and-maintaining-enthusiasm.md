@@ -49,4 +49,8 @@ description: >-
 * Engage members in discussion, allow everyone to speak and be heard.
 * Maintain an open door policy for members to make suggestions.
 
-####
+{% hint style="info" %}
+**Updated January 2022**
+
+We welcome your suggestions and ideas! Please send them to podsupport@plantpurecommunities.org
+{% endhint %}

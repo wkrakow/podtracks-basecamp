@@ -21,3 +21,9 @@ description: >-
 * Offer to teach cooking classes to groups with whom Pod members already have a relationship, such as a local church, school, cancer support groups, YMCA, etc.
 * Offer to facilitate Jumpstarts in your local church or at your work, and then have your Pod provide additional cooking and shopping training. Learn more <mark style="color:red;">here.</mark>&#x20;
 * Don’t forget to reach out to local media to let them know about any of your Pod’s community events so they can take pictures/video and publish a story!
+
+{% hint style="info" %}
+**Updated January 2022**
+
+We welcome your suggestions and ideas! Please send them to podsupport@plantpurecommunities.org
+{% endhint %}
