@@ -11,3 +11,9 @@
 ## Group 1
 
 * [Info Sheet: Recommended Books and Cookbooks on a WFPB Diet](group-1/info-sheet-recommended-books-and-cookbooks-on-a-wfpb-diet.md)
+
+***
+
+* [Info Sheet: Informative Newsletters](info-sheet-informative-newsletters.md)
+* [Info Sheet: Minimal Cooking Ideas](info-sheet-minimal-cooking-ideas.md)
+* [Info Sheet: Movie List](info-sheet-movie-list.md)
