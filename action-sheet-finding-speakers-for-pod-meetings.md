@@ -5,7 +5,7 @@ description: >-
   and educational (ideally they would be bot
 ---
 
-# Action Sheet: Finding Speakers for Pod Meetings
+# Finding Speakers for Pod Meetings
 
 * Find out what topics Pod members would be interested in having covered.
 * Explore your own network: Remember that speakers do not have to be celebrities.

@@ -5,7 +5,7 @@ description: >-
   some ideas on how to maintain interest and a
 ---
 
-# Action Sheet: Running Successful Meetings and Maintaining Enthusiasm
+# Running Successful Meetings and Maintaining Enthusiasm
 
 ## Ways to Maintain and Increase Attendance
 

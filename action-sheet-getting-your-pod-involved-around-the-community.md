@@ -5,7 +5,7 @@ description: >-
   impact in your community.
 ---
 
-# Action Sheet: Getting your Pod Involved Around the Community
+# Getting your Pod Involved Around the Community
 
 #### A focus on making a difference in the community can unite members around the endeavor and attract new people to the movement
 

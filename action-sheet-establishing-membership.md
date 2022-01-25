@@ -2,7 +2,7 @@
 description: >-
   A successful Pod is nothing without enthusiastic members! Here are some tips
   to help you market your Pod and attract participants.
-cover: ../.gitbook/assets/239548511_3213797695553859_5347254176163119489_n (1).jpeg
+cover: .gitbook/assets/239548511_3213797695553859_5347254176163119489_n (1).jpeg
 coverY: 22.10909090909091
 ---
 
