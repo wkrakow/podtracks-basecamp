@@ -26,7 +26,7 @@ Creating a mailing list can be easy:
 
 When you’re ready to broadcast your Pod to the larger community, there are many options available, some free and some with fees. For Pods in larger cities, these options, such as Facebook, can connect you to large existing organizations that will happily help broadcast your message on their groups and pages. As your Pod grows, consider adding additional forms of communication like Meetup, MailChimp, or Eventbrite.
 
-### Facebook - [www.facebook.com](action-sheet-connecting-online-with-your-pod.md#facebook-www.facebook.com)
+### Facebook - [www.facebook.com](connecting-online-with-your-pod.md#facebook-www.facebook.com)
 
 Cost: Free&#x20;
 
@@ -40,7 +40,7 @@ Facebook allows you access to like-minded individuals with the click of a few bu
 3. If you intend to advertise your event publicly to a large community, then we suggest that you create an event on your personal Facebook page and then share that link to others in the community. This is most important if your Pod is located in a large city with other active Facebook pages. If you create an event in your group, then only those who join your group can attend the event. If you create an event in a private group, then only your private group will know about the event.
 4. To create an event on your personal page, go to your news feed (click the Facebook logo on the top left) and [follow these instructions](https://www.facebook.com/help/210413455658361?helpref=about\_content).
 
-### Meetup - [www.meetup.com](action-sheet-connecting-online-with-your-pod.md#undefined)
+### Meetup - [www.meetup.com](connecting-online-with-your-pod.md#undefined)
 
 Cost: \~$100 for 6 months or up to $35 a month for Meetup Pro
 
@@ -62,7 +62,7 @@ Heal Our Village is a new alternative to Facebook created by PlantPure Inc. with
 1. Once you have set up an account, click the “Apply to Start a Group” button to add your Pod to the site.
 2. Engage in projects with your Pod as you share resources and collaborate on solutions across the globe and within your community.
 
-### Google Groups - [groups.google.com/forum/](action-sheet-connecting-online-with-your-pod.md#google-groups-groups.google.com-forum)
+### Google Groups - [groups.google.com/forum/](connecting-online-with-your-pod.md#google-groups-groups.google.com-forum)
 
 Cost: Free
 

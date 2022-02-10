@@ -1,9 +1,9 @@
 # Table of contents
 
-## Action Sheets
+## Getting Started
 
-* [Establishing membership](README.md)
-* [Finding Speakers for Pod Meetings](action-sheet-finding-speakers-for-pod-meetings.md)
-* [Running Successful Meetings and Maintaining Enthusiasm](action-sheet-running-successful-meetings-and-maintaining-enthusiasm.md)
-* [Getting your Pod Involved Around the Community](action-sheet-getting-your-pod-involved-around-the-community.md)
-* [Connecting Online with your Pod](action-sheet-connecting-online-with-your-pod.md)
+* [Establishing Membership](README.md)
+* [Finding Speakers for Pod Meetings](getting-started/finding-speakers-for-pod-meetings.md)
+* [Running Successful Meetings and Maintaining Enthusiasm](getting-started/running-successful-meetings-and-maintaining-enthusiasm.md)
+* [Getting your Pod Involved Around the Community](getting-started/getting-your-pod-involved-around-the-community.md)
+* [Connecting Online with your Pod](getting-started/connecting-online-with-your-pod.md)
