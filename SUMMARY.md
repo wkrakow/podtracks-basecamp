@@ -11,3 +11,5 @@
 ## Getting Started
 
 * [Pod Badge](getting-started/pod-badge.md)
+* [PPC Canva Designs](getting-started/ppc-canva-designs.md)
+* [Marketing/Promotional Materials](getting-started/marketing-promotional-materials.md)
